@@ -1,0 +1,6 @@
+export * from "./about"
+export * from "./characters"
+export * from "./features"
+export * from "./home"
+export * from "./notices"
+export * from "./main"
